@@ -1,0 +1,40 @@
+
+body{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+header{
+    padding: 20px 66px 1px 14px;
+    background-color: rgb(59, 45, 45);
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 19px;
+}
+#menu{
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    color: crimson;
+    font-size: 42px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.menu{
+    display: flex;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 7%;
+    width: auto;
+    margin: 30px 30px 10px 30px;
+    column-gap: 40px;
+    padding: 10px;
+    
+}
+.menu-para{
+    background-color: rgb(189, 188, 188);
+    padding: 20px;
+    line-height: 20px;
+    flex-wrap: wrap;
+    
+}
